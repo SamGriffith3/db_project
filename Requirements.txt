@@ -1,0 +1,5 @@
+requests
+flask
+sqlalchemy
+bottle
+app
